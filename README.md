@@ -271,6 +271,9 @@ from the format itself: at 7 significant digits the energies inside narrow
 resonances collapse — 27 044 of the 94 867 IAEA points in that range repeat the
 previous energy. `--digits 9` avoids this in new files.
 
+### Coding aids
+Written with the help of Claude Code
+
 ### References
 
 - W. Ford, *G4NDL4.2 Final State Guide*, McMaster University (2016) — `G4NDLFinalStateDecryptionCERNv1.pdf`
