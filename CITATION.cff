@@ -14,7 +14,7 @@ authors:
     affiliation: University of Birmingham
 identifiers:
   - type: url
-    value: 'https://github.com/effeffe/Geant4-ENDF6-NDL-ConversionScripts.git'
+    value: 'https://github.com/bhamnuclear/Geant4-ENDF6-NDL-ConversionScripts.git'
 license: AGPL-3.0-or-later
 version: 1.0.0
 date-released: '2026-10-22'
