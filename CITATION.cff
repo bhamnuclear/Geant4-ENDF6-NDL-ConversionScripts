@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ENDF6 Conversion Scripts to Geant4 G4NDL
+message: >-
+  Scirpts to convert ENDF6 Fission Fragments data to G4NDL format. Partially Vibe Coded
+type: software
+authors:
+  - given-names: Filippo
+    family-names: Falezza
+    email: filippo.falezza@outlook.com
+    orcid: 'https://orcid.org/0000-0002-8289-3943'
+    affiliation: University of Birmingham
+identifiers:
+  - type: url
+    value: 'https://github.com/bhamnuclear/GainMatch.git'
+license: AGPL-3.0-or-later
+version: 1.0.0
+date-released: '2026-10-22'
